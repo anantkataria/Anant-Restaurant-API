@@ -1,4 +1,4 @@
-## This project is part of: Meta Backend developer Specialization.
+### This project is part of a Meta Backend developer Specialization.
 
 ## Purpose 
 
